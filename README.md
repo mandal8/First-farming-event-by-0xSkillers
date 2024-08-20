@@ -1,6 +1,7 @@
 # First-farming-event-by-0xSkillers
 More information about our farming event
-
+Debuggers discord: https://discord.com/invite/Qp9kqu6Xn9 
+PaintSwap discord: https://discord.com/invite/paintswap
 # Base Item Farming Challenge
 # Objective: Players who farm the most hero hours of specific items will receive rewards based on their placement. The details are outlined below.
 1.Eligible Items:
